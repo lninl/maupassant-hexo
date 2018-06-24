@@ -1,0 +1,2 @@
+# maupassant-hexo
+blog
